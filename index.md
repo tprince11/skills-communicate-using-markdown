@@ -13,3 +13,7 @@ Made a list of different Header sizes
 string = 'Hello World!'
 print(string)
 ```
+
+- [x] Step 1
+- [ ] Step 2
+- [ ] Step 3
